@@ -14,14 +14,14 @@ npx skills add mmcardle/ai-skills
 
 ```bash
 claude plugin marketplace add mmcardle/ai-skills
-claude plugin install example-skill@mmcardle-ai-skills
+claude plugin install review-pr-changes@mmcardle-ai-skills
 ```
 
 ## Available Skills
 
 | Skill | Description |
 |-------|-------------|
-| [example-skill](skills/example-skill) | An example skill demonstrating the ai-skills format |
+| [review-pr-changes](skills/review-pr-changes) | Review PR changes with structured checklist for quality and standards compliance |
 
 ## Adding Skills
 

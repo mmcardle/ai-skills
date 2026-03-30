@@ -6,13 +6,13 @@
   },
   "plugins": [
     {
-      "name": "example-skill",
-      "description": "An example skill demonstrating the ai-skills format",
+      "name": "review-pr-changes",
+      "description": "Review PR changes with structured checklist for quality and standards compliance",
       "author": {
         "name": "Mark McArdle"
       },
-      "source": "./skills/example-skill",
-      "category": "development"
+      "source": "./skills/review-pr-changes",
+      "category": "review"
     }
   ]
 }

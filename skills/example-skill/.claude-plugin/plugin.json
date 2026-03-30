@@ -1,9 +1,0 @@
-{
-  "name": "example-skill",
-  "description": "An example skill demonstrating the ai-skills format",
-  "version": "1.0.0",
-  "author": {
-    "name": "Mark McArdle"
-  },
-  "license": "MIT"
-}
