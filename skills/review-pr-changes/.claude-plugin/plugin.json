@@ -1,0 +1,9 @@
+{
+  "name": "review-pr-changes",
+  "description": "Review PR changes with structured checklist for quality and standards compliance",
+  "version": "1.0.0",
+  "author": {
+    "name": "Mark McArdle"
+  },
+  "license": "MIT"
+}
