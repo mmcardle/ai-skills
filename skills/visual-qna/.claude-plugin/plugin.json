@@ -1,0 +1,9 @@
+{
+  "name": "visual-qna",
+  "description": "Visual Q&A for data visualization",
+  "version": "1.0.0",
+  "author": {
+    "name": "Mark McArdle"
+  },
+  "license": "MIT"
+}
