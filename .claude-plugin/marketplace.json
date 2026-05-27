@@ -13,6 +13,15 @@
       },
       "source": "./skills/review-pr-changes",
       "category": "review"
+    },
+    {
+      "name": "visual-qna",
+      "description": "Visual Q&A for data visualization",
+      "author": {
+        "name": "Mark McArdle"
+      },
+      "source": "./skills/visual-qna",
+      "category": "visualization"
     }
   ]
 }
