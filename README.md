@@ -22,6 +22,7 @@ claude plugin install review-pr-changes@mmcardle-ai-skills
 | Skill | Description |
 |-------|-------------|
 | [review-pr-changes](skills/review-pr-changes) | Review PR changes with structured checklist for quality and standards compliance |
+| [visual-qna](skills/visual-qna) | Ask a batch of multiple-choice questions in a Playwright-driven browser form and read structured answers back. Requires the Playwright MCP. |
 
 ## Adding Skills
 
